@@ -27,4 +27,6 @@ how? Check out this Github repo.
 | 3mm x 25mm bolt | 2 |
 | 3mm nut | 2|
 | 2mm x 6mm self tapping screw | 10 |
-| LED Strip Lights 5V [Amazon](https://www.amazon.com/dp/B0D1FYV3LM?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) |  
+| LED Strip Lights 5V [Amazon](https://www.amazon.com/dp/B0D1FYV3LM?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1) | 
+| Micro USB cable | 1|
+| USB power adapter | 1 |
