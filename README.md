@@ -21,3 +21,9 @@ how? Check out this Github repo.
 | 1528-3894-ND | 3894 | JST PH 2mm 3-Pin to Female Socket Cable  | 2 | $1.25 |
 | 1528-1991-ND | 189 | PIR (motion) sensor | 2 | $9.95 |
 | 1528-5648-ND | 5648 | MOSFET Driver | 2 | $3.95 |
+
+| Description | Qty |
+|-------------|-----|
+| 3mm x 25mm bolt | 2 |
+| 3mm nut | 2|
+| 2mm x 6mm self tapping screw | 10 |
