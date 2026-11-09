@@ -1,7 +1,7 @@
 # proximity-sign
 A sign that blinks when people walk by
 
-Meet Mr. Blinky. He will sit at the WCTC to remind people to sign in and out.
+Meet Mr. Blinky. 
 Mr. Blinky can see if a person is walking in and will blink the
 "please check in" sign.
 Mr. Blinky can see if a person is walking out and will blink the
