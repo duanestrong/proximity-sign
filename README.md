@@ -24,6 +24,7 @@ how? Check out this Github repo.
 
 | Description | Qty |
 |-------------|-----|
+|1/4 inch diameter tube x 6 in | 2|
 | 3mm x 25mm bolt | 2 |
 | 3mm nut | 2|
 | 2mm x 6mm self tapping screw | 10 |
